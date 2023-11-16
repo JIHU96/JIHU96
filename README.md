@@ -1,11 +1,13 @@
-<h3 align=center style="font-size: 36px">Github Project</h3>
-<h3 align=center style="font-size: 36px">Tech Stack</h3>
-<hr/> <!-- 수평선 -->
 <div align=center>
-  <a href="https://www.naver.com">
+  <h3 align=center style="font-size: 36px">Github Project</h3>
+  <hr/>
+  <a href="https://github.com/TTWord/DanuhWeb">
   <img src="https://img.shields.io/badge/DanuhWeb-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <br>
   
+  <h3 align=center style="font-size: 36px">Tech Stack</h3>
+  <hr/>
   <h4>Front End</h4>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
